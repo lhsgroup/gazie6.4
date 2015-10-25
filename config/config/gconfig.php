@@ -47,7 +47,7 @@ $Host     = "localhost";
 //
 // Nome della base di dati a cui ci si connette.
 //
-$Database = "gazie";
+$Database = "molino";
 //
 // Utente della base di dati che ha il permesso di accedervi con tutti
 // i privilegi necessari.
