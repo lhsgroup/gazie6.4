@@ -25,7 +25,7 @@
 if (isset($_SERVER['SCRIPT_FILENAME']) && (str_replace('\\','/',__FILE__) == $_SERVER['SCRIPT_FILENAME'])) {
     exit('Accesso diretto non consentito') ;
 }
-die("Commit o");
+
 //versione software
 $versSw = '6.4';
 
