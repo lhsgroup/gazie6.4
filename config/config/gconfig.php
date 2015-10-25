@@ -52,12 +52,12 @@ $Database = "gazie";
 // Utente della base di dati che ha il permesso di accedervi con tutti
 // i privilegi necessari.
 //
-$User     = "root";
+$User     = "admindqkXmXg";
 //
 // Parola d'ordine necessaria per accedere alla base di dati
 // in qualità di utente $User.
 //
-$Password = "";
+$Password = "wcfbJRUQ3z5i";
 //
 // Prefisso delle tabelle di Gazie.
 //
